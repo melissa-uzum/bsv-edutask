@@ -35,9 +35,7 @@ backend/test/solutions/
 frontend/cypress/e2e/r8uc1-solution.cy.js
 
 # assignment docs (local reference only)
-assignment-requirements.md
-assignment3-draft.md
-assignment4-draft.md
+docs/
 frontend/cypress/fixtures/task.json
 frontend/cypress/e2e/r8uc2-solution.cy.js
 frontend/cypress/e2e/r8uc3-solution.cy.js
